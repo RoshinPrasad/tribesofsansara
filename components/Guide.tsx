@@ -24,7 +24,7 @@ const Guide = () => {
             </span>
           </h2>
           <p className="regular-16 text-gray-700 xl:max-w-[520px] uppercase font-sans text-animates">
-            Only with the hilink application you will no longer get lost and get
+            Only with the sansara geo application you will no longer get lost and get
             lost again, because we already support offline maps when there is no
             internet connection in the field. Invite your friends, relatives and
             friends to have fun in the wilderness through the valley and reach
